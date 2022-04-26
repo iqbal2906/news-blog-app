@@ -4,7 +4,7 @@ import Layout from "/components/Layout";
 export default function About() {
   return (
     <div>
-      <Layout title="About Sport News">
+      <Layout title="About Sport News app">
         <h1>About</h1>
         <p>
           App to find out Sport News like football, basketball, badminton, f1,
