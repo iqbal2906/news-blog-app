@@ -1,7 +1,8 @@
 .hero {
   height: 300px;
   width: 100%;
-  background: #000 url("/public/images/hero.jpg") no-repeat center center;
+  background: #000 no-repeat center center;
+  background-image: url("/images/hero.jpg");
   color: #fff;
   position: relative;
   display: flex;
